@@ -1,0 +1,17 @@
+
+
+This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices. For more information, please check Tuya Developer Website.
+
+一、方案标题
+
+多功能气象站
+
+二、方案应用场景地点： 家庭客厅、卧室
+
+功能：获取网络天气、时间等，放于室内，并有天气提醒功能，雨天自动关窗灯功能
+
+三、开发计划
+
+4月10前完成.
+
+1）3月20前准备物料 2）3月20-4月1日嵌入式开发、云开发 3）4月10日前整体调试。
