@@ -13,6 +13,9 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 1、离线语音识别模块接入涂鸦模块；
 2、电机驱动小车；
 3、语音控制小车的行进；
+、
+拓展功能：
+通过wifi+onenet遥控小车运动；
 三、开发计划
 
 4月10前完成.
