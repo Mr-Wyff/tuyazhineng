@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[Arduino»Ã²ÊµÆ´øASCLL.RUL]
+   Generated File[Arduino»Ã²ÊµÆ´øASCLL.EXTREP]
+   Generated File[Arduino»Ã²ÊµÆ´øASCLL.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 21:41:45 On 2021-05-29
